@@ -1,0 +1,22 @@
+what other task people like
+president, financial sec., etc
+accomplish?
+
+
+how many loan applications can a member
+submit?
+
+who is in charge of approving loans?
+
+
+
+
+how do we determine how much a member pays
+or is deducted from member's salary at month end?
+
+
+for every loan not approved, allow the president to
+make a comment which should be visible to the applicant.
+
+add a list of those for whom their loans have been approved, and 
+their balances : cleared or uncleared.
